@@ -1,0 +1,4 @@
+This is a remote file created in remote repository
+I have to learn code using Notepad
+
+#How to code with Python, R, SQL and Visual Basic
